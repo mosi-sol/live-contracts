@@ -23,3 +23,6 @@ episode 1: SecureSendToken.sol
 episode 2: DeposiWithdraw.sol
 
 episode 3: FactoryPattern.sol
+
+##
+<a href="https://img.shields.io/github/license/mosi-sol/live-contracts" target="blank"><img src="hhttps://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a> 
