@@ -26,10 +26,10 @@ episode 3: FactoryPattern.sol
 
 ##
 <div>
-<div align="left"> 
+<span align="left"> 
 <a href="https://img.shields.io/github/license/mosi-sol/live-contracts" target="blank"><img src="https://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a> 
-</div>
-<div align="right"> 
+</span>
+<span align="right"> 
 <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" alt="pafecafe" /></a> 
-</div>
+</span>
 </div>
