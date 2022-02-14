@@ -25,9 +25,11 @@ episode 2: DeposiWithdraw.sol
 episode 3: FactoryPattern.sol
 
 ##
-<p align="left"> 
+<ul>
+<li align="left"> 
 <a href="https://img.shields.io/github/license/mosi-sol/live-contracts" target="blank"><img src="https://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a> 
-</p>
-<p align="right"> 
+</li>
+<li align="right"> 
 <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" alt="pafecafe" /></a> 
-</p>
+</li>
+</ul>
