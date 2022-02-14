@@ -33,7 +33,8 @@ episode 3: FactoryPattern.sol
 <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" alt="pafecafe" /></a> 
 </span>
 <span align="right"> 
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/mosi-sol/live-contracts?label=activity">
+  
+<a href="https://github.com/mosi-sol/live-contracts" target="blank"><img src="src="https://img.shields.io/github/commit-activity/w/mosi-sol/live-contracts?label=activity"" alt="pafecafe" /></a> 
 </span>
 </div>
 
