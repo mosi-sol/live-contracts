@@ -16,6 +16,8 @@ this repo for live video coding.
 
 don`t use on final product.
 
+read more in -> https://github.com/mosi-sol/live-contracts/wiki
+
 #
 ### Content sheet:
 
