@@ -16,13 +16,25 @@ this repo for live video coding.
 
 don`t use on final product.
 
-
+#
 ### Content sheet:
-episode 1: SecureSendToken.sol
 
-episode 2: DeposiWithdraw.sol
-
-episode 3: FactoryPattern.sol
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2001-SecureSendToken.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2002-DeposiWithdraw.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2003-FactoryPattern.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2004-MicroBank.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
 
 ##
 <div>
