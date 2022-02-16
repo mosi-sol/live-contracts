@@ -7,7 +7,10 @@
 the smart contract`s has been at the live videos.
 ##
 for more information check my youtube channel: pafecafe
-
+<p align="right"> 
+<a href="https://mosi-sol.github.io/live-contracts/" target="blank">
+    <img src="https://img.shields.io/badge/HOME-PAGE-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
 ##
 
 ### disclaimer:
@@ -41,10 +44,12 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 ##
 <div>
 <span align="left"> 
-<a href="https://img.shields.io/github/license/mosi-sol/live-contracts" target="blank"><img src="https://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a> 
+<a href="https://img.shields.io/github/license/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a> 
 </span>
 <span align="center"> 
 <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" target="blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmosi-sol%2Flive-contracts" alt="pafecafe" /></a> 
 </span>
 </div>
+
 
