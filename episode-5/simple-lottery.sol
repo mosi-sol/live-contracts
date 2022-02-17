@@ -52,6 +52,6 @@ contract Lottery {
         address payable lootWinner;
         lootWinner = bidder[_random() % bidder.length];
         bidder = new address payable[](0);
-        // @Todo: send (value - commision) to the winner -> method: tranfer
+        // @Todo: send (value - commision) to the winner -> method: transfer
     }
 }
