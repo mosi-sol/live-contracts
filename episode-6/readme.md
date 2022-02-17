@@ -11,3 +11,9 @@ expermential code & idea. this kind of dapp can be the next hype or wave. (3rd g
 
 
 17Feb 2022 - live video ( learn solidity in farsi for free )
+
+##
+
+```
+stake source for erc20 tokens idea & credit : https://www.smartcontract.engineer/
+```
