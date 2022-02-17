@@ -40,6 +40,10 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 <a href="https://github.com/mosi-sol/live-contracts" target="blank">
   <img src="https://img.shields.io/badge/episide%2004-MicroBank.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
 </p>
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2005-SimpleLottery.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
 
 ##
 <div>
