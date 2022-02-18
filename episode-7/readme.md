@@ -1,4 +1,4 @@
-## Error Handling
+## Error Handling [solidity ver higher 8]
 
 error handling type`s:
 - Revert
@@ -16,4 +16,6 @@ important type:
 
 ##
 
+<p align="right">
 live video: 18Feb 2022
+</p>
