@@ -2,7 +2,7 @@
 
 pragma solidity 0.8;
 
-// recert & require => live in life cycle
+// revert & require => live in life cycle
 
 contract ErrorRevert {
     // revert check inline code
@@ -16,17 +16,17 @@ contract ErrorRevert {
 contract ErrorRequire {
     // require check must happend code to proccess
     function testError(uint _amount) external pure {
-        // if return error, next lines after require not work
+        // if return error, next lines after that not work
         require(_amount < 5, "amount must be greater 5");
     }
 }
 
 // assert => never happend error
 contract ErrorAssert {
-    // check result should be like assert
+    // check result should be like assert, else code not work
     uint amount;
     function testError() external view {
-        // codes
+        // some codes
         assert(amount == 0); // output would equal the assert or make error
     }
 }
@@ -47,5 +47,5 @@ contract ErrorCustom {
     }
 }
 
-// trow: 
+// throw: 
 // throw error type not work after solidity ver 0.5.4
