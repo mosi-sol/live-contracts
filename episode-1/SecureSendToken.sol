@@ -46,3 +46,6 @@ contract safeSecureMethod {
 	}
 
 }
+
+// in newst solidity version:
+// msg.sender.call{value: amountToWithdraw}("")
