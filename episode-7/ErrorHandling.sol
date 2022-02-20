@@ -47,5 +47,16 @@ contract ErrorCustom {
     }
 }
 
+/// @info: natspec single line do magic in custom error
+contract ErrorCustomMagic {
+    /// this is confuse error text. magicly show on modifier :) 
+    error Confuse();
+    uint256 Count = 0;
+    modifier confuse () {
+        if (Count == 0) revert Confuse();
+        _;
+    }
+}
+
 // throw: 
 // throw error type not work after solidity ver 0.5.4
