@@ -57,6 +57,10 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 <a href="https://github.com/mosi-sol/live-contracts" target="blank">
   <img src="https://img.shields.io/badge/episide%2008-LotteryPart2.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
 </p>
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2009-TodoListPart1.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
 
 ##
 <div>
