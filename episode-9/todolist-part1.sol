@@ -25,8 +25,8 @@ contract TodoList {
     address public owner;
     string private dappName;
 
-    constructor (string memory _name) {
-        dappName = _name;
+    constructor (string memory _dappName) {
+        dappName = _dappName;
         owner = msg.sender;
         status = Status.FINISH;
     }
