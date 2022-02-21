@@ -75,7 +75,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 </p>
 <p align="left"> 
 <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-  <img src="https://img.shields.io/badge/episide%2013-TDynamicMap.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+  <img src="https://img.shields.io/badge/episide%2013-DynamicMap.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
 </p>
 
 ##
