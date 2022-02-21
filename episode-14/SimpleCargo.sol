@@ -21,7 +21,6 @@ contract Cargo {
 		things[_id] = Thing(_name, _pos);
 	}
 
-	// delete should check before teach 
 	function soldThing(uint _index) public {
 		delete things[_index];
 	}
