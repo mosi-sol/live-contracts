@@ -78,6 +78,9 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
   <tr><td>
     <a href="https://github.com/mosi-sol/live-contracts" target="blank">
     <img src="https://img.shields.io/badge/episide%2016-RandomDice.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    </td><td>
+    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
+    <img src="https://img.shields.io/badge/episide%2017-ElectionSimulation.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
     </td>
     </tr>
 </table>
