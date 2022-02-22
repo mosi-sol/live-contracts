@@ -81,6 +81,10 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 <a href="https://github.com/mosi-sol/live-contracts" target="blank">
   <img src="https://img.shields.io/badge/episide%2014-SimpleCargo.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
 </p>
+<p align="left"> 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+  <img src="https://img.shields.io/badge/episide%2015-EncodeHash.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+</p>
 
 ##
 <div>
