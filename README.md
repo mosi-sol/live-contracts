@@ -8,8 +8,7 @@ the smart contract`s has been at the live videos.
 ##
 for more information check my youtube channel: pafecafe
 <p align="right"> 
-<a href="https://mosi-sol.github.io/live-contracts/" target="blank">
-    <img src="https://img.shields.io/badge/HOME-PAGE-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    repo for live videos in farsi 
 </p>
 
 ##
@@ -84,6 +83,9 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
     </td><td>
     <a href="https://github.com/mosi-sol/live-contracts" target="blank">
     <img src="https://img.shields.io/badge/episide%2018-StringLibrary.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    </td><td>
+    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
+    <img src="https://img.shields.io/badge/episide%2019-SafeTransferErc20.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
     </td>
     </tr>
 </table>
