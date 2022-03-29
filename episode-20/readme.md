@@ -27,7 +27,7 @@ function gen(string memory pas) external pure returns (bytes16 _pasGen) {
 }
  ```
 ### disclaimer:
-- the code of repo for teaching on my [youtube](https://youtube.com/pafecafe) , so use it at your own risk.
+- the code of repo for teaching on my [youtube](https://youtube.com/pafecafe) , so if use it at your own risk.
 
 ---
 <p align="right">
