@@ -1,3 +1,5 @@
+zero knowledge proof (ZKproof)
+#
 ***PRIVACY*** IN PUBLIC BLOCKCHAIN.
 
 - did you know about the HASH in Blockchain?
