@@ -4,7 +4,6 @@ did you know about the HASH in Blockchain?
 did you like to untrackable transaction in public blockchains?
 did you like safe & secure transaction?
 
-#anonymous #solidity #blockchain #ethereum 
 ---
 
 ## Secure Anonymous Withdraw
