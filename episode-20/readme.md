@@ -1,4 +1,4 @@
-PRIVACY IN PUBLIC BLOCKCHAIN.
+***PRIVACY*** IN PUBLIC BLOCKCHAIN.
 
 - did you know about the HASH in Blockchain?
 - did you like to untrackable transaction in public blockchains?
