@@ -26,6 +26,8 @@ function gen(string memory pas) external pure returns (bytes16 _pasGen) {
     _pasGen = bytes16(keccak256(abi.encodePacked(pas)));
 }
  ```
+### disclaimer:
+- the code of repo for teaching on my [youtube](https://youtube.com/pafecafe) , so use it at your own risk.
 
 ---
 <p align="right">
