@@ -1,3 +1,12 @@
+PRIVACY IN PUBLIC BLOCKCHAIN.
+
+did you know about the HASH in Blockchain?
+did you like to untrackable transaction in public blockchains?
+did you like safe & secure transaction?
+
+#anonymous #solidity #blockchain #ethereum 
+---
+
 ## Secure Anonymous Withdraw
 at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 - only anonymous account if have the password can withdraw
