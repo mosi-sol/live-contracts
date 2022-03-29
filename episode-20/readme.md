@@ -15,6 +15,7 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 - safe transfer
 - need more security
 - untrackable transaction`s in blockchain
+- pay to the targeted person/dapp
 
 ### example:
 - string password is: ***mosi-sol***
