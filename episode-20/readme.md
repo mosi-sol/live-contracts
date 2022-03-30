@@ -23,6 +23,7 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 ## ver 0.1 files
 - simple contract
 - interface
+- abstract
 
 #
 
