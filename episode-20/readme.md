@@ -12,6 +12,7 @@ zero knowledge proof (ZKproof)
 at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 - only anonymous account if have the password can withdraw
 - the password is a hash from a string.
+- ! 1 user withdraw all fund in this example.
 
 ## usecase:
 - safe transfer
