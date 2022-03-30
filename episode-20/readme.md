@@ -20,6 +20,12 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 - untrackable transaction`s in blockchain
 - pay to the targeted person/dapp
 
+## ver 0.1 files
+- simple contract
+- interface
+
+#
+
 ### example:
 - string password is: ***mosi-sol***
 - hash password generated is: ***0xfb39401d483e3b8ed34e9d5cb7b345ab***
