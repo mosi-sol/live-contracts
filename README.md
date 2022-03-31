@@ -26,76 +26,57 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 
 <table>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2001-SecureSendToken.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [01-SecureSendToken.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-1)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2002-DeposiWithdraw.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [02-DeposiWithdraw.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-2)
     </td>       </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2003-FactoryPattern.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [03-FactoryPattern.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-3)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2004-MicroBank.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [04-MicroBank.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-4)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2005-SimpleLottery.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [05-SimpleLottery.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-5)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2006-StakeNftForReward.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [06-StakeNftForReward.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-6)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2007-ErrorHandling.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [07-ErrorHandling.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-7)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2008-LotteryPart2.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [08-LotteryPart2.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-8)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2009-TodoListPart1.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [09-TodoListPart1.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-9)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2010-CRUD.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [10-CRUD.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-10)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2011-HashAlgorithm.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [11-HashAlgorithm.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-11)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2012-TransferOwner.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [12-TransferOwner.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-12)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2013-DynamicMap.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [13-DynamicMap.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-13)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2014-SimpleCargo.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [14-SimpleCargo.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-14)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2015-EncodeHash.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [15-EncodeHash.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-15)
     </td>  <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2016-RandomDice.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [16-RandomDice.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-16)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2017-ElectionSimulation.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [17-ElectionSimulation.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-17)
     </td>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2018-StringLibrary.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [18-StringLibrary.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-18)
     </td>    </tr>
     <tr>    <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2019-SafeTransferErc20.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [19-SafeTransferErc20.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-19)
     </td>       <td>
-    <a href="https://github.com/mosi-sol/live-contracts" target="blank">
-    <img src="https://img.shields.io/badge/episide%2020-WithdrawPassword.sol-black?style=flat-square&logo=solidity&logoColor=black" alt="pafecafe" /></a> 
+    [20-WithdrawPassword.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-20)
     </td>    </tr>
 </table>
+
 
 ##
 <div>
