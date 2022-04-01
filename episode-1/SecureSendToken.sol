@@ -8,7 +8,7 @@ contract unsecureMethod {
 
 	function withdraw() public {
 		uint amountToWithdraw = userBalances[msg.sender];
-		(bool success, ) = msg.sender.call.value(amountToWithdraw)("");
+		(bool success, ) = msg.sender.call{value: amountToWithdraw}("");
 		require(success);
 		userBalances[msg.sender] = 0;
 	}
@@ -21,7 +21,7 @@ contract secureMethod {
 	function withdraw() public {
 		uint amountToWithdraw = userBalances[msg.sender];
 		userBalances[msg.sender] = 0;
-		(bool success, ) = msg.sender.call.value(amountToWithdraw)("");
+		(bool success, ) = msg.sender.call{value: amountToWithdraw}("");
 		require(success);
 	}
 }
@@ -41,7 +41,7 @@ contract safeSecureMethod {
 	function withdraw() public noReentrant {
 		uint amountToWithdraw = userBalances[msg.sender];
 		userBalances[msg.sender] = 0;
-		(bool success, ) = msg.sender.call.value(amountToWithdraw)("");
+		(bool success, ) = msg.sender.call{value: amountToWithdraw}("");
 		require(success);
 	}
 
