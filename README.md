@@ -43,7 +43,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 - 17-ElectionSimulation.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-17)
 - 18-StringLibrary.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-18)
 - 19-SafeTransferErc20.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-19)
-- 20-WithdrawPassword.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-20)
+- 20-WithdrawPassword.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) - my ZK-Proof algorithn
 - 21-Escrow.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-21)
 - 22-HashMessage.sol [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-22)
 
