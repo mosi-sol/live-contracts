@@ -1,6 +1,6 @@
 # simple Todo list
 
-title: todo list dapp
+title: `todo list` dapp
 
 part: 1 
 
