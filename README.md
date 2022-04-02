@@ -45,6 +45,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 - 19-SafeTransferErc20.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-19
 - 20-WithdrawPassword.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-20
 - 21-Escrow.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-21
+- 22-HashMessage.sol https://github.com/mosi-sol/live-contracts/tree/main/episode-22
 
 
 ##
