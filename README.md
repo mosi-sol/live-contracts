@@ -24,58 +24,27 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 #
 ### Content sheet:
 
-<table>
-    <tr>    <td>
-    [01-SecureSendToken.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-1)
-    </td>    <td>
-    [02-DeposiWithdraw.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-2)
-    </td>       </tr>
-    <tr>    <td>
-    [03-FactoryPattern.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-3)
-    </td>    <td>
-    [04-MicroBank.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-4)
-    </td>    </tr>
-    <tr>    <td>
-    [05-SimpleLottery.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-5)
-    </td>    <td>
-    [06-StakeNftForReward.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-6)
-    </td>    </tr>
-    <tr>    <td>
-    [07-ErrorHandling.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-7)
-    </td>    <td>
-    [08-LotteryPart2.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-8)
-    </td>    </tr>
-    <tr>    <td>
-    [09-TodoListPart1.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-9)
-    </td>    <td>
-    [10-CRUD.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-10)
-    </td>    </tr>
-    <tr>    <td>
-    [11-HashAlgorithm.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-11)
-    </td>    <td>
-    [12-TransferOwner.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-12)
-    </td>    </tr>
-    <tr>    <td>
-    [13-DynamicMap.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-13)
-    </td>    <td>
-    [14-SimpleCargo.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-14)
-    </td>    </tr>
-    <tr>    <td>
-    [15-EncodeHash.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-15)
-    </td>  <td>
-    [16-RandomDice.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-16)
-    </td>    </tr>
-    <tr>    <td>
-    [17-ElectionSimulation.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-17)
-    </td>    <td>
-    [18-StringLibrary.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-18)
-    </td>    </tr>
-    <tr>    <td>
-    [19-SafeTransferErc20.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-19)
-    </td>       <td>
-    [20-WithdrawPassword.sol](https://github.com/mosi-sol/live-contracts/tree/main/episode-20)
-    </td>    </tr>
-</table>
+- 01-SecureSendToken.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-1
+- 02-DeposiWithdraw.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-2
+- 03-FactoryPattern.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-3
+- 04-MicroBank.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-4
+- 05-SimpleLottery.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-5
+- 06-StakeNftForReward.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-6
+- 07-ErrorHandling.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-7
+- 08-LotteryPart2.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-8
+- 09-TodoListPart1.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-9
+- 10-CRUD.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-10
+- 11-HashAlgorithm.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-11
+- 12-TransferOwner.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-12
+- 13-DynamicMap.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-13
+- 14-SimpleCargo.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-14
+- 15-EncodeHash.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-15
+- 16-RandomDice.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-16
+- 17-ElectionSimulation.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-17
+- 18-StringLibrary.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-18
+- 19-SafeTransferErc20.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-19
+- 20-WithdrawPassword.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-20
+
 
 
 ##
