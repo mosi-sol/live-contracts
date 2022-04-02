@@ -1,11 +1,11 @@
 ## simple election - part 1
 
-```
-set/add candidates 
-senat can run dapp
-senat members cant be candidate
-ETC...
-```
+
+- set/add candidates 
+- senat can run dapp
+- senat members cant be candidate
+- ETC...
+
 
 to run a real election need more conditions, and the structure is same.
 
