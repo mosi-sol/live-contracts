@@ -4,6 +4,8 @@
 
 generate hash for message sender & contect messeage
 
+`string data` + `address` -> `encode` = `return bytes`
+
 ```
    function _hashGen(string calldata to) internal view returns (bytes16 x) {
         x = bytes16(keccak256(abi.encodePacked(to, msg.sender)));
