@@ -1,9 +1,9 @@
 ## Stake NFT for Reward
 
-```
-// remember to approve contract to use token
-// make erc20 & erc721 for test
-```
+
+- remember to approve contract to use token
+- make `erc20` & `erc721` for test
+
 
 ##
 
