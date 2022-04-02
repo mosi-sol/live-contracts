@@ -16,7 +16,10 @@
 - after finishing the job by services(programmer) runing **finish** function by him/her
 - customer can to run **withdraw** function for releasing & send value
 
-
+### todo:
+in next version
+- save value amount on a variable, delete/0 that after withdraw
+- get function for escrowID
 
 ---
 <p align="right">
