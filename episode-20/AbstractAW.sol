@@ -6,15 +6,11 @@ pragma solidity 0.8;
 
 abstract contract AWithdrawPassword{
     
-    bytes16 immutable hashedPass = 0xfb39401d483e3b8ed34e9d5cb7b345ab;
-    bool internal locked;
+   bytes16 immutable hashedPass;
+   
+   bool internal locked;
 
-	modifier noReentrant() {
-		require(!locked, "no re entrancy");
-		locked = true;
-		_;
-		locked = false;
-	}
+    modifier noReentrant();
 
     event Deposit();
 
