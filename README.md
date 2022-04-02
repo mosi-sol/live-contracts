@@ -24,28 +24,28 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 #
 ### Content sheet:
 
-- 01-SecureSendToken.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-1
-- 02-DeposiWithdraw.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-2
-- 03-FactoryPattern.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-3
-- 04-MicroBank.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-4
-- 05-SimpleLottery.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-5
-- 06-StakeNftForReward.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-6
-- 07-ErrorHandling.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-7
-- 08-LotteryPart2.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-8
-- 09-TodoListPart1.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-9
-- 10-CRUD.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-10
-- 11-HashAlgorithm.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-11
-- 12-TransferOwner.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-12
-- 13-DynamicMap.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-13
-- 14-SimpleCargo.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-14
-- 15-EncodeHash.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-15
-- 16-RandomDice.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-16
-- 17-ElectionSimulation.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-17
-- 18-StringLibrary.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-18
-- 19-SafeTransferErc20.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-19
-- 20-WithdrawPassword.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-20
-- 21-Escrow.sol - https://github.com/mosi-sol/live-contracts/tree/main/episode-21
-- 22-HashMessage.sol https://github.com/mosi-sol/live-contracts/tree/main/episode-22
+- 01-SecureSendToken.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-1)
+- 02-DeposiWithdraw.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-2)
+- 03-FactoryPattern.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-3)
+- 04-MicroBank.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-4)
+- 05-SimpleLottery.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-5)
+- 06-StakeNftForReward.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-6)
+- 07-ErrorHandling.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-7)
+- 08-LotteryPart2.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-8)
+- 09-TodoListPart1.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-9)
+- 10-CRUD.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-10)
+- 11-HashAlgorithm.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-11)
+- 12-TransferOwner.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-12)
+- 13-DynamicMap.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-13)
+- 14-SimpleCargo.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-14)
+- 15-EncodeHash.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-15)
+- 16-RandomDice.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-16)
+- 17-ElectionSimulation.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-17)
+- 18-StringLibrary.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-18)
+- 19-SafeTransferErc20.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-19)
+- 20-WithdrawPassword.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-20)
+- 21-Escrow.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-21)
+- 22-HashMessage.sol [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-22)
 
 
 ##
