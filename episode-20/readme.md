@@ -14,6 +14,8 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 - the password is a hash from a string.
 - ! 1 user withdraw all fund in this example.
 
+`deposit` -> `depositor set a password` -> `delivered pass, withdraw`
+
 ## usecase:
 - safe transfer
 - need more security
