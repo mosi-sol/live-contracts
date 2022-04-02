@@ -1,6 +1,6 @@
 ## C.R.U.D
 
-crud dapp by using an example.
+crud dapp by using `array` with an example.
 
 ##
 
