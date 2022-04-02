@@ -16,8 +16,8 @@ generate hash for message sender & contect messeage
 
 - test account for deploy: `0x5B38Da6a701c568545dCfcB03FcB875f56beddC4`
 - to: `mosipvp@gmail.com`     
-- to output: `0x8a784ae3d8bc929c6a0c0521b9db9d7c`
 - txt: `hello world! hashed text.`  
+- to output: `0x8a784ae3d8bc929c6a0c0521b9db9d7c`
 - txt output: `0xc3c1fa1e1c7ef80b7d094faaf5e3fb262090d75372b9f5cdc76312816c65d317`
 
 ---
