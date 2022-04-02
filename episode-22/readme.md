@@ -1,5 +1,3 @@
-
-
 ## HashMessage 
 
 generate hash for message sender & contect messeage
