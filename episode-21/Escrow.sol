@@ -30,10 +30,12 @@ contract Recurit is Ownable {
 
     function deposit(address payee) external payable onlyOwner returns (bool success) {
         success = _deposit(payee);
+        require(success);
     }
 
     function withdraw(address payable payee, uint256 id) external onlyOwner returns (bool success) {
         success = _withdraw(payee, id);
+        require(success);
     }
 
     // wrapped security [using hooks active]
