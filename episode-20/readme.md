@@ -36,6 +36,11 @@ function gen(string memory pas) external pure returns (bytes16 _pasGen) {
     _pasGen = bytes16(keccak256(abi.encodePacked(pas)));
 }
  ```
+ 
+ ### Todo:
+ - the hashed lonely **password** is not safe, need the safe role like => pass+msg.sender <- this is make unique password.
+ - build a hackaton for find bugs & best features
+ 
 ### disclaimer:
 - the code of repo for teaching on my [youtube](https://youtube.com/pafecafe) , so if use it at your own risk.
 
