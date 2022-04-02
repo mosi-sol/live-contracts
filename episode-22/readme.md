@@ -35,8 +35,8 @@ generate hash for message sender & contect messeage
 }
 ```
 
-- bytes16: _to `0x5af9544b08252dfef4d34de0bd21b430`
-- bytes32: _txt `0x512ab90c0e81d9ec26293b5ba38ba02c7eddd67f522774`
+- bytes16: _to output: `0x5af9544b08252dfef4d34de0bd21b430`
+- bytes32: _txt output: `0x512ab90c0e81d9ec26293b5ba38ba02c7eddd67f522774`
 
 ---
 
@@ -51,7 +51,7 @@ generate hash for message sender & contect messeage
 }
  ```
  
-- bytes16: _to `0x8609abc2267abcb82891ea696f3055e0`
-- bytes32: _txt `0x69e45cf47d11f2b5c85145cbd36cc52f6930019d5b7654cc1879c88b933e2c01`
+- bytes16: _to output: `0x8609abc2267abcb82891ea696f3055e0`
+- bytes32: _txt output: `0x69e45cf47d11f2b5c85145cbd36cc52f6930019d5b7654cc1879c88b933e2c01`
 
 
