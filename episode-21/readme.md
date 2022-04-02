@@ -11,10 +11,10 @@
 
 ### how to:
 
-- deploy contract by recuriter/customer
-- run deposit by sending a value & address of services(like a programmer)
-- after finishing the job by services(programmer) runing finish function by him/her
-- customer can to run withdraw function for releasing & send value
+- **deploy** contract by recuriter/customer
+- run **deposit** by sending a ***value & address*** of services(like a programmer)
+- after finishing the job by services(programmer) runing **finish** function by him/her
+- customer can to run **withdraw** function for releasing & send value
 
 
 
