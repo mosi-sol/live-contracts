@@ -1,9 +1,9 @@
 ## info
 
-deposit mehods:
+`deposit` mehods:
 - low level
 - high level
 ##
-withdraw methods:
+`withdraw` methods:
 - safe
 - nostalogy
