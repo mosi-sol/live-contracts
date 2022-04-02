@@ -2,4 +2,4 @@
 
 simple crud type dapp
 
-`Create` + `Read` + `Update` + `Delete = ``CRUD``
+`Create` + `Read` + `Update` + `Delete` = ``CRUD``
