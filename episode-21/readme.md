@@ -11,9 +11,12 @@
 
 ### how to:
 
-after deploying contract (by/as customer/need the services) on **deposit** function and make a ***value*** of native token, put the recuiter(as a services like a programmer) wallet address start the service.
+- deploy contract by recuriter/customer
+- run deposit by sending a value & address of services(like a programmer)
+- after finishing the job by services(programmer) runing finish function by him/her
+- customer can to run withdraw function for releasing & send value
 
-before customer releasing the withdraw, services(programmer,etc...) have to finish the contract.
+
 
 ---
 <p align="right">
