@@ -1,3 +1,3 @@
 ## dynamic map
 
-base code from solc lang document
+`notice:` `base code from solidity language documents`
