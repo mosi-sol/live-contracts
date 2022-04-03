@@ -45,7 +45,8 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 - 19-SafeTransferErc20.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-19)
 - 20-WithdrawPassword.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-20) - `my [ ZK-Proof ] algorithm`
 - 21-Escrow.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-21)
-- 22-HashMessage.sol [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-22)
+- 22-HashMessage.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-22)
+- 23-ProxyPattern.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-23)n- `not opcode included`
 
 
 ##
