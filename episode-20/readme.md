@@ -16,6 +16,10 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 
 `deposit` -> `depositor set a password` -> `delivered pass, withdraw`
 
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
+    <img src="https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view?usp=sharing" alt="zero knowledge proof" />
+</a>
+
 ## usecase:
 - safe transfer
 - need more security
