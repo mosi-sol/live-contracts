@@ -16,3 +16,12 @@
 ```
 tokenAddress.call(abi.encodeWithSignature("transfer(address,uint256)", 0x__Address__, 17))
 ```
+#
+
+** how to get `SELECTOR` :**
+
+```
+function getSelector(string calldata _func) external pure returns (bytes4) {
+    return bytes4(keccak256(bytes(_func)));
+}
+```
