@@ -12,3 +12,7 @@
 #
 
 **proxy have many vulebalities** so learn & understand ***how to work delegatecall***
+
+```
+tokenAddress.call(abi.encodeWithSignature("transfer(address,uint256)", 0x__Address__, 17))
+```
