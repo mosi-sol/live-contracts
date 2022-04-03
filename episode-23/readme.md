@@ -9,4 +9,6 @@
 - proxy use target contract's, but not change those variables
 - proxy `state variable's` would in the same role by target state variable's
 
-** proxy have many vulebalities** so learn & understand ***how to work delegatecall***
+#
+
+***proxy have many vulebalities** so learn & understand ***how to work delegatecall***
