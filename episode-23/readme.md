@@ -7,7 +7,7 @@
 
 ### info:
 - proxy use target contract's, but not change those variables
-- proxy `state variable's` would in the same role by target state variable's
+- proxy `state variable's` would in the same order & roles by target state variable's
 
 #
 
