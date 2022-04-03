@@ -4,11 +4,11 @@
 </p>
 
 # live-contracts
-the smart contract`s has been at the live videos.
+the smart contract's has been at the live videos.
 ##
 for more information check my youtube channel: pafecafe
 <p align="right"> 
-    repo for live videos in farsi 
+    live contract [season 2](https://github.com/mosi-sol/live-contracts-s2)
 </p>
 
 ##
