@@ -9,6 +9,11 @@
 - proxy use target contract's, but not change those variables
 - proxy `state variable's` would in the same order & roles by target state variable's
 
+### fallback()
+the beauty of `Low level interactions` in proxy pattern is: 
+- not defined function's can call
+- defined function's too
+
 #
 
 **proxy have many vulebalities** so learn & understand ***how to work delegatecall***
