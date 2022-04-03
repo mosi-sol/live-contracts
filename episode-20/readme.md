@@ -6,6 +6,8 @@ zero knowledge proof (ZKproof)
 - did you like to untrackable transaction in public blockchains?
 - did you like safe & secure transaction?
 
+read the article about this 0n [hackernoon](https://hackernoon.com/preview/k9fK6cWEjCwfa5Vc5cmO)
+
 ---
 
 ## Secure Anonymous Withdraw
