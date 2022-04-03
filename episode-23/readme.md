@@ -18,7 +18,7 @@ tokenAddress.call(abi.encodeWithSignature("transfer(address,uint256)", 0x__Addre
 ```
 #
 
-**how to get** `SELECTOR` :
+**how to get** `SELECTOR` : [ like: `"transfer(address,uint256)"` ]
 
 ```
 function getSelector(string calldata _func) external pure returns (bytes4) {
