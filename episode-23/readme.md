@@ -17,6 +17,7 @@ the beauty of `Low level interactions` in proxy pattern is:
 #
 
 **proxy have many vulebalities** so learn & understand ***how to work delegatecall***
+
 an example for LOWLEVEL call, delegate like this in writing but different answer in final.
 
 ```
