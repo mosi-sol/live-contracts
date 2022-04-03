@@ -17,9 +17,9 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 `deposit` -> `depositor set a password` -> `delivered pass, withdraw`
 <!-- https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view -->
 <!-- https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view?usp=sharing -->
-<a href="https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view" target="blank">
+<!-- <a href="https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view" target="blank">
     <img src="https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view" alt="zero knowledge proof" />
-</a>
+</a> -->
 
 ## usecase:
 - safe transfer
