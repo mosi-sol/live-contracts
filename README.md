@@ -52,7 +52,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 ##
 <div>
 <span align="left"> 
-<a href="https://img.shields.io/github/license/mosi-sol/live-contracts" target="blank">
+<a href="https://github.com/mosi-sol/live-contracts" target="blank">
   <img src="https://img.shields.io/github/license/mosi-sol/live-contracts" alt="pafecafe" /></a> 
 </span>
 <span align="center"> 
