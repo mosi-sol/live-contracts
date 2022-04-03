@@ -20,6 +20,7 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 <!-- <a href="https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view" target="blank">
     <img src="https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view" alt="zero knowledge proof" />
 </a> -->
+<!-- [[https://drive.google.com/file/d/1E8J1NOWJWsXaQOEFvgRtHGk-p4z4ZeaV/view|alt=octocat]] -->
 
 ## usecase:
 - safe transfer
