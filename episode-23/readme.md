@@ -11,8 +11,8 @@
 
 ### fallback()
 the beauty of `Low level interactions` in proxy pattern is: 
-- not defined function's can call
-- defined function's too
+- not defined exacution's can call
+- defined exacution's too
 
 #
 
