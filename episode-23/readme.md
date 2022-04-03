@@ -24,7 +24,8 @@ tokenAddress.call(abi.encodeWithSignature("transfer(address,uint256)", 0x__Addre
 #
 
 **how to get** `SELECTOR` : [ like: `"transfer(address,uint256)"` ]
-
+- no need for many smartcontracts, but good to know.
+- usecase in ERC165
 ```
 function getSelector(string calldata _func) external pure returns (bytes4) {
     return bytes4(keccak256(bytes(_func)));
