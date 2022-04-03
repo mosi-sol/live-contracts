@@ -11,4 +11,4 @@
 
 #
 
-***proxy have many vulebalities** so learn & understand ***how to work delegatecall***
+**proxy have many vulebalities** so learn & understand ***how to work delegatecall***
