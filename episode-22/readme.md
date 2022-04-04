@@ -1,6 +1,6 @@
 ## HashMessage 
 
-generate hash for message sender & contect messeage
+generate hash for message sender & content messeage
 
 `string data` + `address` -> `encode` = `return bytes`
 
