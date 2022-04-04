@@ -34,7 +34,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 - 07-ErrorHandling.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-7)
 - 08-LotteryPart2.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-8)
 - 09-TodoListPart1.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-9)
-- 10-CRUD.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-10)
+- 10-CRUD.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-10) - `array CRUD example`
 - 11-HashAlgorithm.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-11)
 - 12-TransferOwner.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-12)
 - 13-DynamicMap.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-13)
