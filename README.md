@@ -9,18 +9,7 @@ the smart contract's has been at the live videos.
 for more information check my youtube channel: pafecafe
 
 
-### **live contract** [season-2](https://github.com/mosi-sol/live-contracts-s2)
-
-
-##
-
-### disclaimer:
-
-this repo for live video coding.
-
-don`t use on final product.
-
-read more in -> https://github.com/mosi-sol/live-contracts/wiki
+### **live contract** [season-2](https://github.com/mosi-sol/live-contracts-s2) 
 
 #
 ### Content sheet:
@@ -49,8 +38,18 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 - 22-HashMessage.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-22) - `and training for factory pattern`
 - 23-ProxyPattern.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-23) - `not opcode included`
 
+##
+
+### disclaimer:
+
+this repo for live video coding.
+
+don't use on final product.
+
+read more in -> https://github.com/mosi-sol/live-contracts/wiki
 
 ##
+
 <div>
 <span align="left"> 
 <a href="https://github.com/mosi-sol/live-contracts" target="blank">
