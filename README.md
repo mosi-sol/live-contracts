@@ -38,7 +38,7 @@ read more in -> https://github.com/mosi-sol/live-contracts/wiki
 - 11-HashAlgorithm.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-11)
 - 12-TransferOwner.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-12)
 - 13-DynamicMap.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-13)
-- 14-SimpleCargo.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-14)
+- 14-SimpleCargo.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-14) - `mapping CRUD example`
 - 15-EncodeHash.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-15)
 - 16-RandomDice.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-16)
 - 17-ElectionSimulation.sol - [here](https://github.com/mosi-sol/live-contracts/tree/main/episode-17)
