@@ -13,6 +13,9 @@ expermential code & idea. this kind of dapp can be the next hype or wave. (3rd g
 
 ##
 
+- decress reward by decressing value from `100` in `line 8`
+
+
 ```
 stake source for erc20 tokens idea & credit : https://www.smartcontract.engineer/
 git: t4sk
