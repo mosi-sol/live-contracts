@@ -4,6 +4,7 @@
 - remember to approve contract to use token
 - make `erc20` & `erc721` for test
 
+### learn about `stake logic` [here](https://github.com/mosi-sol/live-contracts-s2/tree/main/05-simple-staking) 
 
 ##
 
