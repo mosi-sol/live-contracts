@@ -23,6 +23,9 @@ in next version
 - ``save value amount`` in a variable, delete/0 that after withdraw
 - ``getter function`` for escrowID
 
+### security
+- change `internal` functions to `private`
+
 ---
 <p align="right">
   <a href="https://github.com/mosi-sol" target="blank">
