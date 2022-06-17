@@ -41,7 +41,7 @@ at this lesson we seen how to withdraw safe & secure by using a PASSWORD.
 - string password is: ***mosi-sol***
 - hash password generated is: ***0xfb39401d483e3b8ed34e9d5cb7b345ab***
 
-```
+```solidity
 function gen(string memory pas) external pure returns (bytes16 _pasGen) {
     _pasGen = bytes16(keccak256(abi.encodePacked(pas)));
 }
