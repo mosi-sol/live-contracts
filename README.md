@@ -9,7 +9,7 @@ the smart contract's has been at the live videos.
 for more information check my youtube channel: pafecafe
 
 
-### **live contract** [season-2](https://github.com/mosi-sol/live-contracts-s2) 
+### **live contract** [season-2](https://github.com/mosi-sol/live-contracts-s2) - [season-3](https://github.com/mosi-sol/live-contract-s3) 
 
 #
 ### Content sheet:
