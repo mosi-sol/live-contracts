@@ -8,9 +8,6 @@ the smart contract's has been at the live videos.
 ##
 for more information check my youtube channel: pafecafe
 
-
-### **live contract** [season-2](https://github.com/mosi-sol/live-contracts-s2) - [season-3](https://github.com/mosi-sol/live-contract-s3) 
-
 #
 ### Content sheet:
 
@@ -43,6 +40,7 @@ for more information check my youtube channel: pafecafe
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts)](https://github.com/mosi-sol/live-contracts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts-s2)](https://github.com/mosi-sol/live-contracts-s2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contract-s3)](https://github.com/mosi-sol/live-contract-s3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mosi-sol&repo=live-contracts-s4)](https://github.com/mosi-sol/live-contracts-s4)
 
 ### disclaimer:
 
