@@ -11,10 +11,16 @@ library Strings {
 		return string(abi.encodePacked(_first, _second));
 	}
 
+	function concatVersion2023(string calldata _first, string calldata _second) internal pure returns (string memory) {
+		return string.concat(_first, _second);
+	}
+
 	function compare(string calldata _first, string calldata _second) internal pure returns (bool) {
 		bytes32 value1 = keccak256(abi.encodePacked(_first));
-		bytes32 value2 = keccak256(abi.encodePacked(_second));
+		bytes32 value2 = keccak256(abi.encodePacked(_first));
 		return value1 == value2;
+		// OR 
+		// return bytes(_first) == bytes(_first);
 	}
 
 	function reverse(string calldata _string) internal pure returns (string memory) {
