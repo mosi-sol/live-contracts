@@ -17,10 +17,12 @@ library Strings {
 
 	function compare(string calldata _first, string calldata _second) internal pure returns (bool) {
 		bytes32 value1 = keccak256(abi.encodePacked(_first));
-		bytes32 value2 = keccak256(abi.encodePacked(_first));
+		bytes32 value2 = keccak256(abi.encodePacked(_second));
 		return value1 == value2;
 		// OR 
-		// return bytes(_first) == bytes(_first);
+		// if(bytes(_first).length == bytes(_second).length){
+		// 	return bytes(_first) == bytes(_second);
+		// } return false;
 	}
 
 	function reverse(string calldata _string) internal pure returns (string memory) {
